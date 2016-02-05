@@ -22,6 +22,8 @@ function AiyagariProblem(; π::Float64 = 1.0,   α::Float64 = 0.35, δ::Float64 
     AiyagariProblem(π, α, δ, γ , ρ, σ2, θ)
 end
 
+# TODO: kflfkalfksa 
+# DOUBT: kflfkalfksa 
 abstract AiyagariMethod
 ##############################################################################
 ##
